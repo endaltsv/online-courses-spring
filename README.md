@@ -22,24 +22,24 @@
 
 На главной странице представлен обзор доступных курсов, отзывы, контакты.
 
-![GIF главной страницы](https://github.com/endaltsv/EduAcademy/blob/main/gitimages/main.gif?raw=true)
+![GIF главной страницы](https://github.com/endaltsv/online-courses-spring/blob/main/gitimages/main.gif?raw=true)
 
 ### Профиль пользователя
 
 Страница профиля отображает информацию о пользователе, его прогресс в курсах.
 
-![GIF страницы профиля](https://github.com/endaltsv/EduAcademy/blob/main/gitimages/profile.gif?raw=true)
+![GIF страницы профиля](https://github.com/endaltsv/online-courses-spring/blob/main/gitimages/profile.gif?raw=true)
 
 ### Страница курса
 
 Детальная информация о курсе, включая описание, программу, видеоуроки и задания.
 
-![GIF страницы курса](https://github.com/endaltsv/EduAcademy/blob/main/gitimages/course.gif?raw=true)
+![GIF страницы курса](https://github.com/endaltsv/online-courses-spring/blob/main/gitimages/course.gif?raw=true)
 
 ## Структура проекта
 
 ```
-edu-academy/
+online-courses-spring/
 │
 ├── src/
 │   ├── main/
