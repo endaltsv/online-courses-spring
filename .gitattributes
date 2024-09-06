@@ -1,0 +1,12 @@
+# Specify files that should be treated as Java
+*.java linguist-language=Java
+
+# Exclude CSS files from language statistics
+*.css linguist-vendored
+
+# If you have specific CSS files you want to include, you can do:
+# src/main/resources/static/css/main.css -linguist-vendored
+
+# Exclude other files that might be skewing the statistics
+*.html linguist-vendored
+*.js linguist-vendored
